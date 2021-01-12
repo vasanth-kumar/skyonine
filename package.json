@@ -1,0 +1,22 @@
+{
+  "name": "skyonine",
+  "version": "1.0.0",
+  "description": "skyonine website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasanth-kumar/skyonine.git"
+  },
+  "author": "vasanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasanth-kumar/skyonine/issues"
+  },
+  "homepage": "https://github.com/vasanth-kumar/skyonine#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
